@@ -95,7 +95,7 @@
 - LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts
   - https://arxiv.org/pdf/2407.04973
   - https://github.com/Yijia-Xiao/LogicVista
-- The Jumping Reasoning Curve? Tracking the Evolution of Reasoning Performance in GPT-[n] and o-[n] Models on Multimodal Puzzles [视觉感知、归纳推理和算法推理]
+- The Jumping Reasoning Curve? Tracking the Evolution of Reasoning Performance in GPT-[n] and o-[n] Models on Multimodal Puzzles
   - https://arxiv.org/pdf/2502.01081
   - https://github.com/declare-lab/LLM-PuzzleTest/
 
