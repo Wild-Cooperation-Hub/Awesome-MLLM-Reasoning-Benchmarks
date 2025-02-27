@@ -1,5 +1,18 @@
 # Awesome-MLLM-Reasoning-Benchmarks
 
+### Table of Contents
+- [Awesome-MLLM-Reasoning-Benchmarks](#awesome-mllm-reasoning-benchmarks)
+    - [Mathematical Reasoning](#mathematical-reasoning)
+    - [Chart reasoning](#chart-reasoning)
+    - [Scientific Reasoning](#scientific-reasoning)
+    - [Code Generation](#code-generation)
+    - [Multi-Image Based Inductive Reasoning](#multi-image-based-inductive-reasoning)
+    - [Social and Cultural Knowledge Reasoning](#social-and-cultural-knowledge-reasoning)
+    - [Algorithmic Problem](#algorithmic-problem)
+    - [Action Prediction](#action-prediction)
+    - [Spatial Reasoning](#spatial-reasoning)
+    - [Other Comprehensive MM Reasoning Benchmarks](#other-comprehensive-mm-reasoning-benchmarks)
+
 
 ### Mathematical Reasoning
 - WE-MATH: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?
