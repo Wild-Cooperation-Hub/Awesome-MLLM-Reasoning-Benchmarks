@@ -1,6 +1,7 @@
 # Awesome-MLLM-Reasoning-Benchmarks
 
-*Authors: Yaya Shi and Zongyang Ma*
+**Authors: [Yaya Shi](https://scholar.google.com/citations?user=dqLvhvIAAAAJ&hl=zh-CN) and [Zongyang Ma](https://scholar.google.com/citations?user=qtdueToAAAAJ&hl=en)**
+
 
 
 ### Table of Contents
