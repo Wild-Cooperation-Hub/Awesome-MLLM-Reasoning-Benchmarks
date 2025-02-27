@@ -157,38 +157,38 @@
 
 #### Action Prediction
 
-##### Autonomous Driving
-    - Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction
-        - 📜 Paper: https://arxiv.org/pdf/2310.04671v4
-        - 💻 Code: https://github.com/DHPR-dataset/DHPR-dataset
-        - 🤗 Dataset: https://huggingface.co/datasets/DHPR/Driving-Hazard-Prediction-and-Reasoning
-        
-##### Robot Manipulation
-    - A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards
-        - 📜 Paper: https://arxiv.org/pdf/2502.08643
-        - 💻 Code: https://github.com/shivanshpatel35/IKER
-        - 📚 Project: https://iker-robot.github.io/
-        - 📚 Project: https://simpler-env.github.io/
+- Autonomous Driving
+  - Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction
+      - 📜 Paper: https://arxiv.org/pdf/2310.04671v4
+      - 💻 Code: https://github.com/DHPR-dataset/DHPR-dataset
+      - 🤗 Dataset: https://huggingface.co/datasets/DHPR/Driving-Hazard-Prediction-and-Reasoning
+      
+- Robot Manipulation
+  - A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards
+      - 📜 Paper: https://arxiv.org/pdf/2502.08643
+      - 💻 Code: https://github.com/shivanshpatel35/IKER
+      - 📚 Project: https://iker-robot.github.io/
+      - 📚 Project: https://simpler-env.github.io/
 
-##### Gui Agent
-    - InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection
-        - 📜 Paper: https://arxiv.org/pdf/2501.04575
-        - 💻 Code: https://github.com/Reallm-Labs/InfiGUIAgent
-        - 🤗 Dataset: https://huggingface.co/datasets/Reallm-Labs/InfiGUIAgent-Data
-    
-    - Mind2Web: Towards a Generalist Agent for the Web
-        - 📜 Paper: https://arxiv.org/abs/2306.06070
-        - 📚 Project: https://osu-nlp-group.github.io/Mind2Web/
-        - 💻 Code: https://github.com/OSU-NLP-Group/Mind2Web
-        - 🤗 Dataset: https://huggingface.co/datasets/osunlp/Mind2Web
-    
-    - SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
-        - 📜 Paper: https://arxiv.org/pdf/2401.10935
+- Gui Agent
+  - InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection
+      - 📜 Paper: https://arxiv.org/pdf/2501.04575
+      - 💻 Code: https://github.com/Reallm-Labs/InfiGUIAgent
+      - 🤗 Dataset: https://huggingface.co/datasets/Reallm-Labs/InfiGUIAgent-Data
+
+  - Mind2Web: Towards a Generalist Agent for the Web
+      - 📜 Paper: https://arxiv.org/abs/2306.06070
+      - 📚 Project: https://osu-nlp-group.github.io/Mind2Web/
+      - 💻 Code: https://github.com/OSU-NLP-Group/Mind2Web
+      - 🤗 Dataset: https://huggingface.co/datasets/osunlp/Mind2Web
+
+  - SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
+      - 📜 Paper: https://arxiv.org/pdf/2401.10935
 
 
 
 #### Spatial Reasoning
-##### Spatial Planing
+- Spatial Planing
     - Imagine while Reasoning in Space: Multimodal Visualization-of-Thought
         - 📜 Paper: https://arxiv.org/pdf/2501.07542
     
@@ -196,7 +196,7 @@
         - 📜 Paper: https://arxiv.org/pdf/2502.03214v1
         - 💻 Code: https://github.com/SharkyBamboozle/iVISPAR
 
-##### Spatial Relationship
+- Spatial Relationship
     - PulseCheck457: A Diagnostic Benchmark for Comprehensive Spatial Reasoning of Large Multimodal Models
         - 📜 Paper: https://www.arxiv.org/pdf/2502.08636
     
