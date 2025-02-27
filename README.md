@@ -8,20 +8,25 @@
   - Dataset: https://huggingface.co/datasets/We-Math/We-Math
 - (ICLR 2024 Oral) Mathvista: Evaluating math reasoning in visual contexts with gpt-4v, bard, and other large multimodal models
   - Paper: https://arxiv.org/pdf/2310.02255
-  - Project Page: https://mathvista.github.io/
+  - Project Page: https://mathvista.github.io
+  - Code: https://github.com/lupantech/MathVista
   - Dataset: https://huggingface.co/datasets/AI4Math/MathVista
   - LeaderBoard: https://mathvista.github.io/#leaderboard
 - (ECCV 2024) MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems
   - Paper: https://arxiv.org/pdf/2403.14624
+  - Project Page: https://mathverse-cuhk.github.io
   - Code: https://github.com/ZrrSkywalker/MathVerse
   - Dataset: https://huggingface.co/datasets/AI4Math/MathVerse
-  - Project Page: https://mathverse-cuhk.github.io/#leaderboard
-- MATH-Vision: Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset
+  - LeaderBoard: https://mathverse-cuhk.github.io/#leaderboard
+- (NeurIPS DB Track 2024) MATH-Vision: Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset
   - Paper: https://arxiv.org/pdf/2402.14804
+  - Project Page: https://mathllm.github.io/mathvision
+  - Code: https://github.com/mathllm/MATH-V
   - Dataset: https://huggingface.co/datasets/MathLLMs/MathVision
+  - LeaderBoard: https://mathllm.github.io/mathvision/#leaderboard
 - MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark
   - Paper: https://arxiv.org/pdf/2408.07543
-  - https://github.com/PKU-Baichuan-MLSystemLab/MathScape?tab=readme-ov-file
+  - Code: https://github.com/PKU-Baichuan-MLSystemLab/MathScape?tab=readme-ov-file
   - Dataset: https://drive.google.com/file/d/1Y3cnKPyryM0_m5QJQIOkF09KjDO9Q_QH/view
 - CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of LMMs 【中文】
   - Paper: https://arxiv.org/pdf/2409.02834
