@@ -1,7 +1,7 @@
 # Awesome-MLLM-Reasoning-Benchmarks
 
 
-#### Mathematical Reasoning
+### Mathematical Reasoning
 - WE-MATH: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?
   - 📜 Paper: https://arxiv.org/pdf/2407.01284
   - 🤗 Dataset: https://huggingface.co/datasets/We-Math/We-Math
@@ -41,7 +41,7 @@
   - 🤗 Dataset: https://huggingface.co/datasets/Hothan/OlympiadBench
 
 
-#### Chart reasoning
+### Chart reasoning
 - ChartBench: A Benchmark for Complex Visual Reasoning in Charts
   - 📜 Paper: https://arxiv.org/pdf/2312.15915
   - 📚 Project: https://chartbench.github.io/
@@ -52,7 +52,7 @@
   - 💻 Code: https://github.com/Zivenzhu/Multi-chart-QA
 
 
-#### Scientific Reasoning
+### Scientific Reasoning
 
 - M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models
   - 📜 Paper: https://arxiv.org/pdf/2405.15638
@@ -91,7 +91,7 @@
   - 📜 Paper: https://arxiv.org/pdf/2401.11944
   - 🤗 Dataset: https://huggingface.co/datasets/m-a-p/CMMMU
 
-#### Code Generation
+### Code Generation
 
 - ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation
   - 📜 Paper: https://arxiv.org/pdf/2406.09961
@@ -109,7 +109,7 @@
   - 🏆 LeaderBoard: https://humaneval-v.github.io/#leaderboard
 
 
-#### Multi-Image Based Inductive Reasoning
+### Multi-Image Based Inductive Reasoning
 - MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models
   - 📜 Paper: https://arxiv.org/pdf/2502.00698
   - 🤗 Dataset: https://huggingface.co/datasets/huanqia/MM-IQ
@@ -123,7 +123,7 @@
   - 💻 Code: https://github.com/declare-lab/LLM-PuzzleTest/
 
 
-#### Social and Cultural Knowledge Reasoning
+### Social and Cultural Knowledge Reasoning
 - Computational Meme Understanding: A Survey
   - 📜 Paper: https://aclanthology.org/2024.emnlp-main.1184.pdf
   
@@ -148,14 +148,14 @@
   - 📜 Paper: https://arxiv.org/pdf/2502.13759
 
 
-#### Algorithmic Problem
+### Algorithmic Problem
 - NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models
   - 📜 Paper: https://arxiv.org/pdf/2403.01777
   - 💻 Code: https://github.com/lizhouf/NPHardEval4V
 
 
 
-#### Action Prediction
+### Action Prediction
 
 - Autonomous Driving
   - Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction
@@ -187,7 +187,7 @@
 
 
 
-#### Spatial Reasoning
+### Spatial Reasoning
 - Spatial Planing
     - Imagine while Reasoning in Space: Multimodal Visualization-of-Thought
         - 📜 Paper: https://arxiv.org/pdf/2501.07542
@@ -204,7 +204,7 @@
         - 📜 Paper: https://arxiv.org/pdf/2502.11859
 
 
-#### Other Comprehensive MM Reasoning Benchmarks
+### Other Comprehensive MM Reasoning Benchmarks
 - M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought
   - 📜 Paper: https://arxiv.org/pdf/2405.16473
   - 🤗 Dataset: https://huggingface.co/datasets/LightChen2333/M3CoT
