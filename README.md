@@ -248,3 +248,9 @@
 - R1-onevision
   - 📚 Project: https://yangyi-vai.notion.site/r1-onevision
   - 🤗 Dataset: https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision-Bench
+ 
+### TODO
+- ☑️☑️☑️ Based on the aforementioned research, we are currently in the process of writing a survey paper and developing a benchmark. 
+- 🤝🤝🤝 We warmly invite everyone to join this collaborative project. Please feel free to reach out to us or submit pull requests—your contributions are highly valued!
+
+  
