@@ -7,11 +7,11 @@
   - Paper: https://arxiv.org/pdf/2407.01284
   - Dataset: https://huggingface.co/datasets/We-Math/We-Math
 - (ICLR 2024 Oral) Mathvista: Evaluating math reasoning in visual contexts with gpt-4v, bard, and other large multimodal models
-  - Paper: https://arxiv.org/pdf/2310.02255
+  - 📜 Paper: https://arxiv.org/pdf/2310.02255
   - Project Page: https://mathvista.github.io
-  - Code: https://github.com/lupantech/MathVista
+  - 💻 Code: https://github.com/lupantech/MathVista
   - Dataset: https://huggingface.co/datasets/AI4Math/MathVista
-  - LeaderBoard: https://mathvista.github.io/#leaderboard
+  - 🏆 LeaderBoard: https://mathvista.github.io/#leaderboard
 - (ECCV 2024) MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems
   - Paper: https://arxiv.org/pdf/2403.14624
   - Project Page: https://mathverse-cuhk.github.io
