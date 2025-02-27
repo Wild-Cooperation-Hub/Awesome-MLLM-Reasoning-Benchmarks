@@ -1,5 +1,8 @@
 # Awesome-MLLM-Reasoning-Benchmarks
 
+*Authors: Yaya Shi and Zongyang Ma*
+
+
 ### Table of Contents
 - [Awesome-MLLM-Reasoning-Benchmarks](#awesome-mllm-reasoning-benchmarks)
     - [Mathematical Reasoning](#mathematical-reasoning)
