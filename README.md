@@ -59,6 +59,11 @@
   - 📜 Paper: https://arxiv.org/pdf/2402.14008
   - 🤗 Dataset: https://huggingface.co/datasets/Hothan/OlympiadBench
 
+- MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts
+- 📜 Paper: https://arxiv.org/pdf/2502.20808
+- 📚 Project: https://eternal8080.github.io/MV-MATH.github.io/
+- 💻 Code: https://github.com/eternal8080/MV-MATH
+- 🤗 Dataset: https://huggingface.co/datasets/PeijieWang/MV-MATH
 
 ### Chart reasoning
 - ChartBench: A Benchmark for Complex Visual Reasoning in Charts
