@@ -65,7 +65,7 @@
 - 💻 Code: https://github.com/eternal8080/MV-MATH
 - 🤗 Dataset: https://huggingface.co/datasets/PeijieWang/MV-MATH
 
-### Chart reasoning
+### Chart Reasoning
 - ChartBench: A Benchmark for Complex Visual Reasoning in Charts
   - 📜 Paper: https://arxiv.org/pdf/2312.15915
   - 📚 Project: https://chartbench.github.io/
