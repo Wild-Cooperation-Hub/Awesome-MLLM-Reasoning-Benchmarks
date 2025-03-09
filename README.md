@@ -7,7 +7,7 @@
 
 
 ### Table of Contents
-- [Awesome-MLLM-Reasoning-Benchmarks](#awesome-mllm-reasoning-benchmarks)
+- [Awesome MLLM Reasoning Benchmarks](#awesome-mllm-reasoning-benchmarks)
     - [Mathematical Reasoning](#mathematical-reasoning)
     - [Chart reasoning](#chart-reasoning)
     - [Scientific Reasoning](#scientific-reasoning)
