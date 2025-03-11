@@ -77,6 +77,11 @@ A Comprehensive Survey on Evaluating Reasoning Capabilities in Multimodal Large 
   - 📜 Paper: https://arxiv.org/pdf/2410.14179v2
   - 💻 Code: https://github.com/Zivenzhu/Multi-chart-QA
 
+- (Neurips DB Track 2024) Chartxiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs
+  - 📜 Paper: https://arxiv.org/pdf/2406.18521
+  - 📚 Project: https://charxiv.github.io/
+  - 🤗 Dataset: https://huggingface.co/datasets/princeton-nlp/CharXiv
+
 
 ### Scientific Reasoning
 
@@ -247,6 +252,11 @@ A Comprehensive Survey on Evaluating Reasoning Capabilities in Multimodal Large 
 - LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs
   - 📜 Paper: https://arxiv.org/pdf/2501.06186
   - 🤗 Dataset: https://huggingface.co/datasets/omkarthawakar/VRC-Bench
+
+- (Neurips DB Track 2024) MLLM-CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs
+  - 📜 Paper: https://arxiv.org/pdf/2407.16837
+  - 📚 Project: https://compbench.github.io/
+
 
 - ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models
   - 📜 Paper: https://arxiv.org/pdf/2502.09696
