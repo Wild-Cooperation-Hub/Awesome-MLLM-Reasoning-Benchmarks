@@ -255,6 +255,13 @@ A Comprehensive Survey on Evaluating Reasoning Capabilities in Multimodal Large 
 - R1-onevision
   - 📚 Project: https://yangyi-vai.notion.site/r1-onevision
   - 🤗 Dataset: https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision-Bench
+
+- LRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models
+- 📜 Paper: https://arxiv.org/pdf/2411.17451
+- 💻 Code: https://github.com/vl-rewardbench/VL_RewardBench
+- 📚 Project: https://vl-rewardbench.github.io/
+- 🤗 Dataset: https://huggingface.co/datasets/MMInstruction/VL-RewardBench
+- 🏆 LeaderBoard: https://huggingface.co/spaces/MMInstruction/VL-RewardBench
  
 ### TODO
 - ☑️☑️☑️ Based on the aforementioned research, we are currently in the process of writing a survey paper and developing a benchmark. 
