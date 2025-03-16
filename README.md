@@ -48,7 +48,7 @@ A Comprehensive Survey on Evaluating Reasoning Capabilities in Multimodal Large 
   - 🤗 Dataset: https://huggingface.co/datasets/MathLLMs/MathVision
   - 🏆 LeaderBoard: https://mathllm.github.io/mathvision/#leaderboard
 
-- MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark
+- MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark 【中文】
   - 📜 Paper: https://arxiv.org/pdf/2408.07543
   - 💻 Code: https://github.com/PKU-Baichuan-MLSystemLab/MathScape?tab=readme-ov-file
   - 🤗 Dataset: https://drive.google.com/file/d/1Y3cnKPyryM0_m5QJQIOkF09KjDO9Q_QH/view
