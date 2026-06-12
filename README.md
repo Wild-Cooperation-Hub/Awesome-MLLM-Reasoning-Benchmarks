@@ -266,6 +266,12 @@ A Comprehensive Survey on Evaluating Reasoning Capabilities in Multimodal Large 
   - 📚 Project: https://yangyi-vai.notion.site/r1-onevision
   - 🤗 Dataset: https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision-Bench
 
+- (ACL 2026) GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents
+  - 📜 Paper: https://arxiv.org/pdf/2603.24329
+  - 📚 Project: https://hats-ict.github.io/gameplayqa/
+  - 💻 Code: https://github.com/HATS-ICT/GameplayQA
+  - 🤗 Dataset: https://huggingface.co/datasets/wangyz1999/GameplayQA
+
 - LRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models
   - 📜 Paper: https://arxiv.org/pdf/2411.17451
   - 📚 Project: https://vl-rewardbench.github.io/
