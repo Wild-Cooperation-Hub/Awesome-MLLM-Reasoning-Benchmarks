@@ -235,6 +235,12 @@ A Comprehensive Survey on Evaluating Reasoning Capabilities in Multimodal Large 
         - 📜 Paper: https://arxiv.org/pdf/2502.11859
 
 
+- Spatial Cognition Evaluation
+    - Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text
+        - 📜 Paper: https://arxiv.org/abs/2607.21072
+        - 💻 Code: https://github.com/ZJU-OmniAI/ProVisE
+
+
 ### Other Comprehensive MM Reasoning Benchmarks
 - M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought
   - 📜 Paper: https://arxiv.org/pdf/2405.16473
