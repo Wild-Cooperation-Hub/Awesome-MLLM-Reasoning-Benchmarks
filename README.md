@@ -133,6 +133,10 @@ A Comprehensive Survey on Evaluating Reasoning Capabilities in Multimodal Large 
   - 📜 Paper: https://arxiv.org/pdf/2405.07990
   - 🤗 Dataset: https://huggingface.co/datasets/TencentARC/Plot2Code
 
+- StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs
+  - 📜 Paper: https://arxiv.org/abs/2505.20139
+  - 💻 Code: https://github.com/TIGER-AI-Lab/StructEval
+
 - HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks
   - 📜 Paper: https://arxiv.org/pdf/2410.12381
   - 💻 Code: https://github.com/HumanEval-V/HumanEval-V-Benchmark
