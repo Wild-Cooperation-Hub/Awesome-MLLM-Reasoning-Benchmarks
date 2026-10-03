@@ -68,6 +68,9 @@ A Comprehensive Survey on Evaluating Reasoning Capabilities in Multimodal Large 
 - 🤗 Dataset: https://huggingface.co/datasets/PeijieWang/MV-MATH
 
 ### Chart Reasoning
+- When Does an Image Determine the Answer? Benchmarking Visual Answerability across Charts and Scenes
+  - 📜 Paper: https://arxiv.org/abs/2609.34480
+
 - ChartBench: A Benchmark for Complex Visual Reasoning in Charts
   - 📜 Paper: https://arxiv.org/pdf/2312.15915
   - 📚 Project: https://chartbench.github.io/
